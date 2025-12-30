@@ -1,0 +1,7 @@
+{
+  "name": "Sega v2.2 Preview App",
+  "description": "Sega is an all-in-one AI chatbot that leverages the Gemini API for text chat, image generation, search-grounded responses, image analysis, audio transcription, and text-to-speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
